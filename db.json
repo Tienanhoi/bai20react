@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Tiến Anh 1",
+      "id": 1
+    },
+    {
+      "title": "Harry poster 5",
+      "id": 2
+    },
+    {
+      "title": "Harry poster 6",
+      "id": 3
+    }
+  ]
+}
